@@ -12,7 +12,6 @@ public class CheckUtil {
     }
    
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		String mobile = "17721675390";
 		System.out.println(checkPhone(mobile));
 	}
