@@ -15,4 +15,5 @@ public class CheckUtil {
 		String mobile = "17721675390";
 		System.out.println(checkPhone(mobile));
 	}
+	
 }
